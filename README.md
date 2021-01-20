@@ -19,7 +19,7 @@ This Express Handlebars web app is a fun little program that updates a database 
 
 ## Link
 
-(This link will take you to the deployed site on Heroku!)](https://quiet-inlet-97625.herokuapp.com/)
+[This link will take you to the deployed site on Heroku!](https://quiet-inlet-97625.herokuapp.com/)
 
 ## Screenshot
 
