@@ -5,7 +5,9 @@
 
 This Express Handlebars web app is a fun little program that updates a database of user submitted burgers and when the "Devour It" button is pressed moves them over to the eaten column. This was built using MySQL for working with the database and Handlebars to dynamically upload the data from the server to the page. 
 
-## Table of Contents 
+## Table of Contents
+
+* [Link](#Link)
 
 * [Screenshot](#Screenshot)
 
@@ -14,6 +16,10 @@ This Express Handlebars web app is a fun little program that updates a database 
 * [Contributing](#contributing)
 
 * [Questions](#questions)
+
+## Link
+
+[This link will take you to the deployed site on Heroku!](https://quiet-inlet-97625.herokuapp.com/)
 
 ## Screenshot
 
